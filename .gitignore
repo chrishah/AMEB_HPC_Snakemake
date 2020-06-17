@@ -1,0 +1,3 @@
+.snakemake/
+snakemake_phylo.sge.sh
+my_subset.txt
